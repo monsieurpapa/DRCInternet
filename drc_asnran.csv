@@ -1,0 +1,45 @@
+	asn.asn	asn.asnName	asn.rank	asn.organization.orgId	asn.organization.orgName	asn.cliqueMember	asn.seen	asn.longitude	asn.latitude	asn.cone.numberAsns	asn.cone.numberPrefixes	asn.cone.numberAddresses	asn.country.iso	asn.country.name	asn.asnDegree.provider	asn.asnDegree.peer	asn.asnDegree.customer	asn.asnDegree.total	asn.asnDegree.transit	asn.asnDegree.sibling	asn.announcing.numberPrefixes	asn.announcing.numberAddresses	asn
+0	327937	Smile-Communication-DRC	73745.0	0a2c0d44cf	Smile Communication DRC	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+1	328452	ISPA-RDC-LUBUX-MGMT	7902.0	dffe8b37f6	Internet service provider association - DRC	True	True	15.32	-4.31	2.0	53.0	13824.0	CD	Democratic Republic of the Congo	2.0	0.0	1.0	3.0	3.0	0.0	1.0	512.0	
+2	37638	Orioncom	8921.0	9b5c461878	Orioncom SPRL	True	True	16.9128759723194	-4.85074526093762	2.0	15.0	4864.0	CD	Democratic Republic of the Congo	6.0	0.0	1.0	7.0	3.0	0.0	14.0	2816.0	
+3	328344	STETechplus-AS	25582.0	54a3e70bfd	STE Techplus SARL	True	True	29.22	-1.69	1.0	4.0	2048.0	CD	Democratic Republic of the Congo	3.0	0.0	0.0	3.0	0.0	0.0	4.0	2048.0	
+4	328601	Compagnie-Financiere-du-Congo-AS	38447.0	7ca8f59b01	Compagnie Financiere du Congo S.a.r.l.	True	True	15.32	-4.31	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	4.0	1024.0	
+5	37020	CELTEL-DRC	2600.0	9152068ed0	CELTEL DRC	True	True	16.6957825416762	-4.07527264827748	9.0	110.0	31232.0	CD	Democratic Republic of the Congo	8.0	0.0	7.0	15.0	13.0	0.0	37.0	12800.0	
+6	37414	Microcom-Sprl	30137.0	52ef62cf65	Microcom Sprl	True	True	20.122941623017	-7.29173237154566	1.0	5.0	1280.0	CD	Democratic Republic of the Congo	4.0	0.0	0.0	4.0	0.0	0.0	5.0	1280.0	
+7	37415	AFRINET	38447.0	261049f2fe	AFRINET SARL	True	True	15.32	-4.31	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	4.0	1024.0	
+8	328618	OLIVERSOFT	47380.0	a224b86363	Ets OliverSoft	True	True	29.22	-1.69	1.0	2.0	512.0	CD	Democratic Republic of the Congo	3.0	2.0	0.0	5.0	2.0	0.0	2.0	512.0	
+9	37677	SCPT	3502.0	f3e843f515	Societe Congolaise des Postes et Telecommunications (SCPT)	True	True	15.32	-4.31	6.0	80.0	23040.0	CD	Democratic Republic of the Congo	3.0	0.0	4.0	7.0	7.0	0.0	9.0	2048.0	
+10	328238	INFOSET-AS	63535.0	0ebd4a4eed	INFOSET SARL	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+11	37431	ISPA-DRC	73745.0	dffe8b37f6	Internet service provider association - DRC	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+12	328249	Kinshasa-Wireless-AS	38447.0	10a6e9863f	Kinshasa Wireless SARL (KIWI SARL)	True	True	15.32	-4.31	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	4.0	1024.0	
+13	327738	AFRICELL-DRC	25390.0	2770023570	STE AFRICELL RDC SPRL	True	True	20.1900389387919	-6.55614582391374	1.0	11.0	2048.0	CD	Democratic Republic of the Congo	5.0	0.0	0.0	5.0	0.0	0.0	11.0	2048.0	
+14	327870	GBS-DRC	45129.0	375e3156aa	Global Broadband Solution	True	True	26.4726913573647	-0.396872127702767	1.0	3.0	768.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	3.0	768.0	
+15	328000	Banque-Commerciale-Du-Congo	57388.0	393e437258	Banque Commerciale Du Congo- B.C.D.C	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	1.0	256.0	
+16	37571	ITM-DRC	38447.0	23d24139f2	ITM	True	True	15.32	-4.31	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	4.0	1024.0	
+17	327875	ISPA-DRC-CONTENT	7906.0	dffe8b37f6	Internet service provider association - DRC	True	True	15.32	-4.31	2.0	53.0	13824.0	CD	Democratic Republic of the Congo	1.0	0.0	1.0	2.0	2.0	0.0	1.0	512.0	
+18	328003	STANDARD-TELECOM-CONGO	30975.0	6ce1e73c49	STANDARD TELECOM CONGO SARL- STC SA	True	True	15.32	-4.31	1.0	5.0	1280.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	5.0	1280.0	
+19	328771	BUSOLE	63535.0	a0ac17b7e4	STE BUSINESS SOLUTIONS EXPERTS SARL - BUSOLE SARL	True	True	29.035049202885	-2.1050109519443	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+20	37447	ORANGE-RDC	8577.0	397c5eb577	ORANGE RDC	True	True	18.5201057696301	-2.38547941638868	2.0	29.0	6656.0	CD	Democratic Republic of the Congo	5.0	0.0	1.0	6.0	2.0	0.0	15.0	3840.0	
+21	327879	AJYWA-TELECOM	34511.0	37252ed665	AJYWA TELECOM	True	True	27.2373364973656	-2.11460314550686	1.0	7.0	1024.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	7.0	1024.0	
+22	37453	VODACOM-CONGO	16832.0	44728cb297	Vodacom Congo	True	True	19.1684063536699	-4.32592674343812	1.0	32.0	8448.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	32.0	8448.0	
+23	328407	Congo-Broadband-AS	26872.0	69d9523f6b	STE CONGO BROADBAND SPRL	True	True	15.32	-4.31	1.0	1.0	2048.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	2048.0	
+24	328796	GOMIX-MGT	73745.0	dffe8b37f6	Internet service provider association - DRC	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+25	37598	Ebale	13876.0	496aad3601	Eb@le	True	True	15.32	-4.31	1.0	1.0	32768.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	32768.0	
+26	328542	MITC-SARL	38447.0	fb0cc0273f	Mulangane Information Technology Consult SARL - MITC SARL	True	True	15.32	-4.31	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	4.0	1024.0	
+27	328551	Baraka-Broadband-AS	48631.0	0f337ac244	Baraka Broadband Solutions Sarl	True	True	29.09	-4.1	1.0	2.0	512.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	2.0	512.0	
+28	328552	STE-MDICIS	63535.0	3436a739a4	STE MDICIS SAS	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+29	37483	Congo-Chine	63535.0	397c5eb577	ORANGE RDC	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+30	37102	CIELUX-RDC	23652.0	ca3ad1b516	CIELUX TELECOM RDC	True	True	16.4004842443423	-4.98677329906742	1.0	12.0	2816.0	CD	Democratic Republic of the Congo	3.0	0.0	0.0	3.0	0.0	0.0	12.0	2816.0	
+31	327797	COWS	63535.0	23d24139f2	ITM	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+32	328566	Elite-Networks-AS	32844.0	81e5acc334	STE ELITE NETWORKS SARL	True	True	22.1848399453064	-3.23056205288873	1.0	4.0	1024.0	CD	Democratic Republic of the Congo	4.0	0.0	0.0	4.0	0.0	0.0	4.0	1024.0	
+33	328569	Banque-Central-Congo	57388.0	79387e4ad0	BANQUE CENTRALE DU CONGO	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	1.0	256.0	
+34	328442	UNITED-SA	2282.0	5ef486f3ab	United S.A.S.	True	True	15.32	-4.31	11.0	53.0	13312.0	CD	Democratic Republic of the Congo	2.0	1.0	10.0	13.0	13.0	0.0	11.0	2816.0	
+35	328443	Societe-Datco-AS	73223.0	423ef47057	Societe Datco	True	True	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	2.0	0.0	0.0	2.0	0.0	0.0	0.0	0.0	
+36	328445	UNLIMITED-SARL-AS	63535.0	8727b2a261	UNLIMITED SARL	True	True	15.32	-4.31	1.0	1.0	256.0	CD	Democratic Republic of the Congo	1.0	0.0	0.0	1.0	0.0	0.0	1.0	256.0	
+37																							
+38	328004	ICTSI-DR-CONGO	73745.0	b2619afbf4	ICTSI DR CONGO SA	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+39	327978	ISS	73745.0	8964465e58	INTERNATIONAL SYSTEMS SARL	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+40																							
+41	328470	Hologram-Identification-Services-AS	73745.0	6f6c617646	HOLOGRAM IDENTIFICATION SERVICES S.A.R.L	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+42	37785	ISPA-RDC-LUBUX-Peering	73745.0	dffe8b37f6	Internet service provider association - DRC	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
+43	37788	ISPA-DRC-GOMIX-Peering	73745.0	dffe8b37f6	Internet service provider association - DRC	False	False	0.0	0.0	1.0	0.0	0.0	CD	Democratic Republic of the Congo	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	
